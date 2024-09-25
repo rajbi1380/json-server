@@ -3,7 +3,7 @@
     {
       "productName": "Valdeconcha",
       "price": "10",
-      "img": "https://json-server-beta-three.vercel.app/public/product1.jpg",
+      "img": "https://i.postimg.cc/sDsqFR7D/product1.jpg",
       "status": false,
       "description": "  Some quick example text to build on the card title and make up the bulk of the card's content.",
       "id": "1",
@@ -12,7 +12,7 @@
     {
       "productName": "Valdeconcha",
       "price": "250",
-      "img": "/public/product2.jpg",
+      "img": "https://i.postimg.cc/Dzz394Jg/product2.jpg",
       "status": false,
       "description": "  Some quick example text to build on the card title and make up the bulk of the card's content.",
       "id": " 2",
@@ -21,7 +21,7 @@
     {
       "productName": "Valdeconcha",
       "price": "400",
-      "img": "/public/product3.jpg",
+      "img": "https://i.postimg.cc/YCDtqxwV/product3.jpg",
       "status": false,
       "description": "  Some quick example text to build on the card title and make up the bulk of the card's content.",
       "id": "3",
@@ -30,7 +30,7 @@
     {
       "productName": "Valdeconcha",
       "price": "70.3",
-      "img": "/public/product4.jpg",
+      "img": "https://i.postimg.cc/FRBSyScn/product4.jpg",
       "status": false,
       "description": "  Some quick example text to build on the card title and make up the bulk of the card's content.",
       "id": " 4",
@@ -39,7 +39,7 @@
     {
       "productName": "Valdeconcha",
       "price": "47.10",
-      "img": "/public/product5.jpg",
+      "img": "https://i.postimg.cc/0jZyGRL5/product5.png",
       "status": false,
       "description": "  Some quick example text to build on the card title and make up the bulk of the card's content.",
       "id": " 5",
@@ -48,7 +48,7 @@
     {
       "productName": "Valdeconcha",
       "price": "780",
-      "img": "/public/product6.jpg",
+      "img": "https://i.postimg.cc/Dz7pD9D3/product6.jpg",
       "status": false,
       "description": "  Some quick example text to build on the card title and make up the bulk of the card's content.",
       "id": "6",
