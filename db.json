@@ -4,55 +4,49 @@
       "productName": "Valdeconcha",
       "price": "10",
       "img": "https://i.postimg.cc/sDsqFR7D/product1.jpg",
-      "status": false,
+
       "description": "  Some quick example text to build on the card title and make up the bulk of the card's content.",
-      "id": "1",
-      "soldOut": false
+      "id": "1"
     },
     {
       "productName": "Valdeconcha",
       "price": "250",
       "img": "https://i.postimg.cc/Dzz394Jg/product2.jpg",
-      "status": false,
+
       "description": "  Some quick example text to build on the card title and make up the bulk of the card's content.",
-      "id": " 2",
-      "soldOut": false
+      "id": " 2"
     },
     {
       "productName": "Valdeconcha",
       "price": "400",
       "img": "https://i.postimg.cc/YCDtqxwV/product3.jpg",
-      "status": false,
+
       "description": "  Some quick example text to build on the card title and make up the bulk of the card's content.",
-      "id": "3",
-      "soldOut": false
+      "id": "3"
     },
     {
       "productName": "Valdeconcha",
       "price": "70.3",
       "img": "https://i.postimg.cc/FRBSyScn/product4.jpg",
-      "status": false,
+
       "description": "  Some quick example text to build on the card title and make up the bulk of the card's content.",
-      "id": " 4",
-      "soldOut": false
+      "id": " 4"
     },
     {
       "productName": "Valdeconcha",
       "price": "47.10",
       "img": "https://i.postimg.cc/0jZyGRL5/product5.png",
-      "status": false,
+
       "description": "  Some quick example text to build on the card title and make up the bulk of the card's content.",
-      "id": " 5",
-      "soldOut": false
+      "id": " 5"
     },
     {
       "productName": "Valdeconcha",
       "price": "780",
       "img": "https://i.postimg.cc/Dz7pD9D3/product6.jpg",
-      "status": false,
+
       "description": "  Some quick example text to build on the card title and make up the bulk of the card's content.",
-      "id": "6",
-      "soldOut": false
+      "id": "6"
     }
   ],
   "questions": [
